@@ -5,13 +5,31 @@
     weight = 1
 
 [[main]]
-    identifier = "projects"
-    name = "사업분야"
-    url = "/projects/"
+    identifier = "performance"
+    name = "사업실적"
+    url = "/performance/"
     weight = 2
+
+[[main]]
+    identifier = "projects"
+    name = "주요 프로젝트"
+    url = "/projects/"
+    weight = 3
+
+[[main]]
+    identifier = "engineers"
+    name = "기술인력"
+    url = "/engineers/"
+    weight = 4
+
+[[main]]
+    identifier = "licenses"
+    name = "면허 및 장비"
+    url = "/licenses/"
+    weight = 5
 
 [[main]]
     identifier = "history"
     name = "연혁"
     url = "/history/"
-    weight = 3
+    weight = 6

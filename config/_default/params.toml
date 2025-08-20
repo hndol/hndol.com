@@ -6,16 +6,6 @@
   imageWidth = 200
   imageHeight = 100
 
-  [[profileMode.buttons]]
-    name = "회사소개"
-    url = "/about"
-  [[profileMode.buttons]]
-    name = "사업분야"
-    url = "/projects"
-  [[profileMode.buttons]]
-    name = "연혁"
-    url = "/history"
-
 ShowShareButtons = false
 ShowReadingTime = false
 ShowCodeCopyButtons = false
