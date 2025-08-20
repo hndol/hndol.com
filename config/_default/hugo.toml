@@ -1,0 +1,10 @@
+baseURL = 'https://hndol.com/'
+languageCode = 'ko'
+title = '흰돌건설(주)'
+theme = "PaperMod"
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+  series = 'series'
+  project-type = 'project types'

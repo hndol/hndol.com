@@ -1,0 +1,17 @@
+[[main]]
+    identifier = "about"
+    name = "회사소개"
+    url = "/about/"
+    weight = 1
+
+[[main]]
+    identifier = "projects"
+    name = "사업분야"
+    url = "/projects/"
+    weight = 2
+
+[[main]]
+    identifier = "history"
+    name = "연혁"
+    url = "/history/"
+    weight = 3
