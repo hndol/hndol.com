@@ -1,0 +1,23 @@
+<gmp-map
+  center="34.808094916253,127.66758814677"
+  zoom="15"
+  map-id="DEMO_MAP_ID"
+  style="height: 400px"
+>
+  <gmp-advanced-marker
+    position="34.808008, 127.668498"
+    title="흰돌건설(주)"
+  ></gmp-advanced-marker>
+</gmp-map>
+
+<!--
+  The `defer` attribute causes the script to execute after the full HTML
+  document has been parsed. For non-blocking uses, avoiding race conditions,
+  and consistent behavior across browsers, consider loading using Promises. See
+  https://developers.google.com/maps/documentation/javascript/load-maps-js-api
+  for more information.
+-->
+<script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAcal9uypuIou6g3xxMUOJgrG6zWBYQto0&libraries=maps,marker&v=beta"
+  defer
+></script>
