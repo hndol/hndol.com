@@ -8,3 +8,6 @@ theme = "PaperMod"
   category = 'categories'
   series = 'series'
   project-type = 'project types'
+
+[markup.goldmark.renderer]
+  unsafe = true
