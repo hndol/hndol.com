@@ -51,3 +51,22 @@ title: "회사소개"
 | 2011년 | 금호폴리켐(주) 우수협력업체 감사패 |
 | 2011년 | KPX화인케미칼(주) TDI 3공장 증설 감사패 |
 | 2012년 | 제일모직(주) CPC2 PROJECT 감사패 |
+
+## 오시는 길
+
+- **주소:** 전라남도 여수시 여수산단로 285-7(월하동)
+- **연락처:** 061-683-0801
+
+<gmp-map center="34.808094916253,127.66758814677" zoom="15" map-id="DEMO_MAP_ID" style="height: 400px"></gmp-map>
+
+<!--
+  The `defer` attribute causes the script to execute after the full HTML
+  document has been parsed. For non-blocking uses, avoiding race conditions,
+  and consistent behavior across browsers, consider loading using Promises. See
+  https://developers.google.com/maps/documentation/javascript/load-maps-js-api
+  for more information.
+-->
+<script
+  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&libraries=maps&v=beta"
+  defer
+></script>
